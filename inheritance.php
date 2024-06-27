@@ -50,4 +50,5 @@ $e2 = new manager("priyanshu", 69, 10000);
 
 $e1->information();
 
+
 $e2->information();
